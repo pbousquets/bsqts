@@ -1,0 +1,17 @@
+Package: bsqts
+Type: Package
+Title: Biscuits - A package of helper functions for R
+Version: 0.0.1
+Author: Pablo Bousquets
+Maintainer: Pablo Bousquets <pbousquetsm@gmail.com>
+Description: This package is a compilation useful functions for R. 
+License: MIT
+Encoding: UTF-8
+LazyData: true
+Imports:
+  glue (>= 1.4.0),
+  plyr (>= 1.8.5),
+  dplyr (>= 1.0.5)
+Depends:
+  magrittr (>= 2.0.0)
+RoxygenNote: 7.1.2
