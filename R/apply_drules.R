@@ -14,7 +14,9 @@ apply_drules <- function(df, column, cmd, returnDF = F){
     dplyr::mutate(
       !!{{column}} := eval(parse(text=cmd)))
 
-  x <- ifelse(returnDF, x, x %>% dplyr::pull(!!{column}))
+  if (!returnDF){ # Return as vector
+    x <- x[[column]]
+  }
 
   return(x)
 }
