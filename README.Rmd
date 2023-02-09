@@ -26,7 +26,7 @@ bsqts <img src="man/figures/package-sticker.png" align="right" style="float:righ
 <!-- badges: end -->
 
 
-The goal of the R package `bsqts` is to **{{ PLEASE ADD A FEW LINES }}**
+The goal of the R package `bsqts` is to provide some functions that I've needed recurrently working on data science.
 
 
 
@@ -44,12 +44,6 @@ Then you can attach the package `bsqts`:
 ```{r eval = FALSE}
 library("bsqts")
 ```
-
-
-
-## Overview
-
-Here is an overview of `bsqts` content: **{{ PLEASE ADD A FEW LINES }}**
 
 
 

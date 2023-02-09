@@ -2,7 +2,7 @@ citHeader("To cite bsqts in publications use:")
 
 bibentry(
   bibtype = "Manual",
-  title   = "bsqts: {An} {R} package to ...",
+  title   = "bsqts: A handful of recurrent functions for biological data science.",
   author  = c(person("Bousquets Pablo")),
   year    = "2023",
   note    = "R package version 0.0.0.9000",
