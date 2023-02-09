@@ -26,7 +26,7 @@ bsqts <img src="man/figures/package-sticker.png" align="right" style="float:righ
 <!-- badges: end -->
 
 
-The goal of the R package `bsqts` is to **{{ PLEASE ADD A FEW LINES }}**
+The goal of the R package `bsqts` is to provide some functions that I've needed recurrently working on data science.
 
 
 
@@ -47,18 +47,11 @@ library("bsqts")
 
 
 
-## Overview
-
-Here is an overview of `bsqts` content: **{{ PLEASE ADD A FEW LINES }}**
-
-
-
 ## Citation
 
 Please cite this package as: 
 
-> Bousquets Pablo (`r format(Sys.Date(), "%Y")`) bsqts: An R 
-package to **{{ TITLE }}**. R package version 0.0.0.9000.
+> Bousquets, Pablo (`r format(Sys.Date(), "%Y")`) bsqts: A handful of recurrent functions for biological data science. R package version 0.0.0.9000.
 
 
 

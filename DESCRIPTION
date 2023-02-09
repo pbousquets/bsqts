@@ -1,6 +1,6 @@
 Package: bsqts
 Type: Package
-Title: The Title of the Project
+Title: bsqts
 Version: 0.0.0.9000
 Authors@R: c(
     person(given   = "Pablo",
@@ -8,8 +8,7 @@ Authors@R: c(
            role    = c("aut", "cre", "cph"),
            email   = "pbousquetsm@gmail.com",
            comment = c(ORCID = "0000-0002-2969-008X")))
-Description: A paragraph providing a full description of the project (on 
-    several lines...)
+Description: A handful of recurrent functions for biological data science 
 URL: https://github.com/pbousquets/bsqts
 BugReports: https://github.com/pbousquets/bsqts/issues
 License: GPL (>= 2)
