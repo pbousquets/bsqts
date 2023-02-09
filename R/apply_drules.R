@@ -1,4 +1,4 @@
-#' Run commands dynamically trough mutate
+#' #' Run commands dynamically trough mutate
 #'
 #' Create or modify a column with mutate and a command passed as a string.
 #' @param df A data frame
@@ -8,6 +8,7 @@
 #' @return A vector with the results or the full DF with the new column
 #' @examples
 #' df <- apply_drules(df, "mycol", "case_when(other_col < 2 ~ 'low', TRUE ~ 'high')", returnDF = TRUE);
+#' @import dplyr
 #' @export
 apply_drules <- function(df, column, cmd, returnDF = F){
   x <- df %>%

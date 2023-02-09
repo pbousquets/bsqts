@@ -2,7 +2,7 @@
 % Please edit documentation in R/apply_drules.R
 \name{apply_drules}
 \alias{apply_drules}
-\title{Run commands dynamically trough mutate}
+\title{#' Run commands dynamically trough mutate}
 \usage{
 apply_drules(df, column, cmd, returnDF = F)
 }

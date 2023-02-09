@@ -3,3 +3,4 @@
 export(apply_drules)
 export(json2frame)
 export(print_msg)
+import(dplyr)
