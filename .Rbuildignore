@@ -1,2 +1,7 @@
 ^.*\.Rproj$
 ^\.Rproj\.user$
+^bsqts\.Rproj$
+^\.DS_Store$
+^LICENSE\.md$
+^README\.Rmd$
+^README\.html$
