@@ -13,6 +13,10 @@ status](https://www.r-pkg.org/badges/version/bsqts)](https://CRAN.R-project.org/
 [![Project Status:
 Concept](https://www.repostatus.org/badges/latest/concept.svg)](https://www.repostatus.org/#concept)
 [![Dependencies](https://img.shields.io/badge/dependencies-0/0-brightgreen?style=flat)](#)
+[![R CMD
+Check](https://github.com/pbousquets/bsqts/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/pbousquets/bsqts/actions/workflows/R-CMD-check.yaml)
+[![Test
+coverage](https://github.com/pbousquets/bsqts/actions/workflows/test-coverage.yaml/badge.svg)](https://github.com/pbousquets/bsqts/actions/workflows/test-coverage.yaml)
 <!-- badges: end -->
 
 The goal of the R package `bsqts` is to provide some functions that I’ve
