@@ -4,9 +4,9 @@
 \name{bsqts-package}
 \alias{bsqts}
 \alias{bsqts-package}
-\title{bsqts: The Title of the Project}
+\title{bsqts: bsqts}
 \description{
-A paragraph providing a full description of the project (on several lines...)
+A handful of recurrent functions for biological data science
 }
 \seealso{
 Useful links:
